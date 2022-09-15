@@ -140,7 +140,7 @@ function Home() {
         </div>
       </div>
       {/* coming soon */}
-      <div className="h-auto bg-[#212121]">
+      <div className="h-auto w-full bg-[#212121]">
         <div className="flex flex-col justify-center items-center">
           <div className="mt-[8rem] flex flex-col items-center">
             <div className="flex flex-col px-[2rem] items-center">
