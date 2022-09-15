@@ -74,7 +74,7 @@ function Home() {
           <div className="text-[15px] font-larken text-debook-1">
             <h1>Popular debooks</h1>
           </div>
-          <div className="flex justify-between mt-4 flex-wrap">
+          <div className="flex justify-center mt-4 flex-wrap">
             <Card />
             <Card />
             <Card />
