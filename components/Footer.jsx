@@ -35,8 +35,8 @@ function Footer() {
             <p className="text-debook-1 text-[18px]">Terms of Service</p>
           </div>
           <div className="flex flex-col items-center space-y-4 mt-10">
-            <p>Powered by NAKED META</p>
-            <p>2022. DEBOOK. All rights reserved.</p>
+            <p className="text-white">Powered by NAKED META</p>
+            <p className="text-white">2022. DEBOOK. All rights reserved.</p>
           </div>
         </div>
       </div>

@@ -21,7 +21,7 @@ function Card() {
             <p>Floor Price: $34</p>
           </div>
           <div className="flex flex-row justify-center mt-2 space-x-4">
-            <button className="bg-debook-1 text-[8px] rounded-3xl px-3 font-larken py-1">Buy now</button>
+            <button className="bg-debook-1 text-[8px] text-white rounded-3xl px-3 font-larken py-1">Buy now</button>
             <button className="bg-button-1 text-black font-larken px-2 text-[8px] rounded-3xl">Rent now</button>
           </div>
         </div>
