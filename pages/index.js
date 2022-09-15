@@ -69,7 +69,7 @@ function Home() {
         </div>
       </div>
       {/* Popular */}
-      <div className="h-auto px-[1.25rem] mb-10">
+      <div className="h-auto px-2 mb-10">
         <div className="flex flex-col mt-20">
           <div className="text-[15px] font-larken text-debook-1">
             <h1>Popular debooks</h1>

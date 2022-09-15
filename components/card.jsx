@@ -5,7 +5,7 @@ import images from '../public/assets';
 function Card() {
   return (
 
-    <div className="w-[159px] h-[217px] min-h-[217px] min-w-[159px] bg-white border-[1px] border-[#ADADAD] rounded-2xl mb-4 ">
+    <div className="w-[170px] h-[217px] min-h-[217px] min-w-[170px] bg-white border-[1px] border-[#ADADAD] rounded-2xl mb-4">
       <div className="flex h-[55%] ">
         <Image src={images.nftimage} className="rounded-t-xl" objectFit="cover" />
       </div>
