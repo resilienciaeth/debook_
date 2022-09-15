@@ -158,7 +158,7 @@ function Home() {
               </h1>
             </div>
             <div>
-              <Image src={images.iphone} objectFit="cover" />
+              <Image src={images.iphone} objectFit="fill" />
             </div>
           </div>
         </div>
