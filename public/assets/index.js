@@ -11,6 +11,10 @@ import google from './google.png';
 import appstore from './appstore.png';
 import iphone from './phone.png';
 import logofooter from './logofooter.png';
+import nftcarddesktop from './nftcarddesktop1.png';
+import authordesktop from './authordesktop.png';
+import nftimage1 from './nftimage1.png';
+import iphonedesktop from './mobiledesktop.png';
 
 export default {
   menu,
@@ -26,5 +30,9 @@ export default {
   appstore,
   iphone,
   logofooter,
+  nftcarddesktop,
+  authordesktop,
+  nftimage1,
+  iphonedesktop,
 
 };
